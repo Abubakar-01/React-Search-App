@@ -32,3 +32,4 @@ React-Search-App/
 - **public/index.html**: HTML template where the React app is mounted
 
 The End 1
+The End 2
