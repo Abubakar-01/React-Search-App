@@ -30,3 +30,5 @@ React-Search-App/
 - **src/components/ImageList.js**: Component that displays a list of images
 - **src/components/ImageShow.js**: Component for displaying individual images
 - **public/index.html**: HTML template where the React app is mounted
+
+The End 1
