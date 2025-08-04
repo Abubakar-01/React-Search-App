@@ -71,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Random Note
 This React Search App provides an intuitive interface for searching and filtering data with real-time results.
+
+## Fun Fact
+Did you know that React was originally created by Jordan Walke at Facebook in 2011? It's amazing how far web development has come!
