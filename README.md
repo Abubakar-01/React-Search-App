@@ -87,6 +87,40 @@ src/
 └── index.js              # Application entry point
 ```
 
+## Demo
+
+The React Search App provides an intuitive search experience:
+
+1. **Search Interface**: Enter any search term in the search bar
+2. **Real-time Results**: Images are fetched and displayed instantly
+3. **Responsive Grid**: Images are displayed in a responsive grid layout that adapts to different screen sizes
+4. **Image Quality**: High-quality images are loaded with proper aspect ratio handling
+
+### Usage Tips
+
+- Use specific keywords for better search results
+- Try different search terms to explore various image categories
+- The app works best with common English search terms
+- Images are sourced from external APIs, so results may vary
+
+## Troubleshooting
+
+### Common Issues
+
+**App won't start:**
+- Ensure Node.js version 14 or higher is installed
+- Delete `node_modules` and run `npm install` again
+- Check if port 3000 is already in use
+
+**No search results:**
+- Check your internet connection
+- Verify the API service is accessible
+- Try different search terms
+
+**Slow loading:**
+- Check your internet connection speed
+- Large images may take time to load on slower connections
+
 ## Contributing
 
 1. Fork the repository
